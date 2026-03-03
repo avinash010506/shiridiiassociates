@@ -57,3 +57,5 @@ This will generate a `./dist` folder containing the minified HTML, CSS, and JS f
 - **Products**: To update the product catalog, edit the `src/data/products.ts` file. You can add new entries or adjust pricing and specifications.
 - **Images**: Place any new raw images in `src/assets/products` and link them in the product data file.
 - **Theme**: Customize brand colors and font variables inside `src/index.css` and `tailwind.config.ts`.
+
+https://shiridiassociates.netlify.app/
